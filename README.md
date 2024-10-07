@@ -8,4 +8,4 @@ The goal of this project is to translate the provided Figma design into a fully 
 
 Tech Stack : React, HTML, CSS
 
-Visit at :
+Visit at : https://appscrip-task-aswathiak.netlify.app/
