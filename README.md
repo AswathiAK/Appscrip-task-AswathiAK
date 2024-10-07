@@ -1,8 +1,11 @@
-# React + Vite
+# Appscrip Task - Product Listing Page (PLP) React Implementation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React-based implementation of a Product Listing Page (PLP) designed in Figma
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The goal of this project is to translate the provided Figma design into a fully functional and responsive React application. This Product Listing Page (PLP) features a modern, clean UI and is designed to provide users with a seamless browsing experience.
+
+Tech Stack : React, HTML, CSS
+
+Visit at :
