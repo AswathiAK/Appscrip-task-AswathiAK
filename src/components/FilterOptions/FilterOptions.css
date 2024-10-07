@@ -1,0 +1,42 @@
+.custom-segment {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.6rem;
+}
+.checkbox {
+  width: 2.2rem;
+  height: 2.2rem;
+}
+.filter-title {
+  font-size: 1.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.border {
+  border-bottom: 1px solid #e5e5e5;
+}
+.filter-section {
+  margin: 1.6rem 0;
+}
+.filter-dropdown {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+}
+.icon {
+  color: #888792;
+}
+.filter-select {
+  font-size: 1.8rem;
+}
+.subsegment {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.6rem;
+}
+.subsegment-title {
+  font-size: 1.6rem;
+}
